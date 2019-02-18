@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Mobile Application</string>
+    <string name="article_subtitle">Types of Mobile Application</string>
+    <string name="article_text">
+        <b>1. Native Applications:</b>
+        \n
+        These are applications developed to be used on a particular platform or operating system such as Android, iOS etc. Native apps are usually written in languages that the platform accepts. \They are also built using the specific Integrated Development Environment (IDE) for the given operating systems, such as Android Studio for Android Apps and XCode for iOS Apps.
+        \n
+        The principal advantage of native apps is that they optimize the user experience. By being designed and developed specifically for that platform, they look and perform better.
+        \n
+        Examples of some popular Native Applications are Instagram for Android, VLC media player for Android, WordPress for iOS, and 2048 game for iOS.
+        \n\n
+
+        <b>2. Hybrid Applications:</b>
+        \n
+        These are applications developed to be used across multiple platforms i.e can be deployed on both iOS and Android platforms. Hybrid mobile applications are built in a similar manner as websites. Both use a combination of technologies like HTML, CSS, and JavaScript. However, instead of targeting a mobile browser, hybrid applications target a WebView hosted inside a native container. This enables them to do things like access hardware capabilities of the mobile device.
+        \n
+        Today, most hybrid mobile applications leverage Apache Cordova, a platform that provides a consistent set of JavaScript APIs to access device capabilities through plug-ins, which are built with native code.
+        \n
+        Examples of some popular Hybrid Applications are MarketWatch, Untappd, FanReact, and TripCase.
+        \n\n
+
+        <b>3. Progressive Web Applications (PWAs):</b>
+        \n
+        A Progressive Web App (PWA) is a web app that uses modern web capabilities to deliver an app-like experience to users without requiring them to install an app from the AppStore/PlayStore. They are usually accessible by a web URL which can always be pinned or saved on your phone’s home screen. PWAs are usually built using HTML, CSS, JavaScript also.
+        \n
+        Examples of some popular Progressive Web Applications are AliExpress’s PWA, Financial Times PWA, NASA’s PWA, and the recently just launched PayStack’s PWA.
+        \n\n
+    </string>
+</resources>
