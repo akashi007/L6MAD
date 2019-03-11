@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntents</string>
+    <string name="edittext_website">http://instagram.com</string>
+    <string name="button_website">OPEN WEBSITE</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">Droid Desserts</string>
+    <string name="donuts">Donuts are glazed and sprinkled with candy.</string>
+    <string name="ice_cream">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
+    <string name="froyo">FroYo is premium self-serve frozen yogurt.</string>
+    <string name="donut_order">You ordered a donut.</string>
+    <string name="ice_order">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order">You ordered a FroYo.</string>
+    <string name="change_dessert">Change dessert</string>
+    <string name="order_text">You have ORDERED......</string>
+    <string name="title_activity_order">ORDER CART</string>
+
+</resources>
