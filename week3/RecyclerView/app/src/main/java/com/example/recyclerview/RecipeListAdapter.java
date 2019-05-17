@@ -16,7 +16,7 @@ public class RecipeListAdapter extends RecyclerView.Adapter<RecipeListAdapter.Re
     private final LinkedList<String> mRecipeName;
     private final LinkedList<String> mRecipeDesc;
     private LayoutInflater mLayoutInflater;
-    public final static String EXTRA_NAME = "me.mahakagg.recipesrecyclerview.EXTRA.NAME";
+    public final static String EXTRA_NAME = "com.example.recyclerview.EXTRA.NAME";
 
     RecipeListAdapter(Context context, LinkedList<String> recipeName, LinkedList<String> recipeDesc){
         mLayoutInflater = LayoutInflater.from(context);
